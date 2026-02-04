@@ -1,0 +1,1 @@
+pandas\nnumpy\ngeopy\nscikit-learn\nmatplotlib\nseaborn\nrequests\nflask\nsqlalchemy\njupyter
